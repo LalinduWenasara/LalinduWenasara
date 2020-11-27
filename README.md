@@ -1,7 +1,7 @@
 ### Hello 
 
 
-<img src="https://github.com/LalinduWenasara/LalinduWenasara/blob/main/wave.gif" width="30px">
+
 
 
 
